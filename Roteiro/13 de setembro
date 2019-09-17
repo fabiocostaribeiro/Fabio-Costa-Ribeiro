@@ -53,4 +53,4 @@ enable
 configure terminal
 interface Ex: f0/0 e número da vlan
 encapsulation dot1q número da vlan 
-ip address  ip e mascara de rede
+ip address  ip e mascara de rede 
